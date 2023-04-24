@@ -5,4 +5,4 @@ vless://699f6042-caf8-4386-b284-9bcec14d25e0@95.179.240.154:8443?type=grpc&secur
 vless://78c882dc-3fa6-4c8d-9e43-410f2e70fb3e@147.185.161.233:8443?type=grpc&security=tls&serviceName=dfakwyg7687&sni=sub0.azadiazadiazadi.tech&flow=#BlueVPS_grpc(Mokhaberat)
 vless://699f6042-caf8-4386-b284-9bcec14d25e0@147.185.161.233:8443?type=grpc&security=tls&serviceName=slmsudo&sni=sub1.azadiazadiazadi.tech&flow=#CINFU_grpc(Mokhaberat)
 vless://78c882dc-3fa6-4c8d-9e43-410f2e70fb3e@193.9.49.91:8443?type=grpc&security=tls&serviceName=dfakwyg7687&sni=sub0.azadiazadiazadi.tech&flow=#BlueVPS_grpc(Hamrah)
-vless://699f6042-caf8-4386-b284-9bcec14d25e0@193.9.49.91:8443?type=grpc&security=tls&serviceName=slmsudo&sni=sub1.azadiazadiazadi.tech&flow=#CINFU_grpc(Hamrah)
+vless://699f6042-caf8-4386-b284-9bcec14d25e0@193.8.49.91:8443?type=grpc&security=tls&serviceName=slmsudo&sni=sub1.azadiazadiazadi.tech&flow=#CINFU_grpc(Hamrah)
